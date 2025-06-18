@@ -1,4 +1,4 @@
 ## Proyecto
 
-### Hola Profe
+# Hola Profe
 ![PingPong](./imagenes/paletas.gif)
