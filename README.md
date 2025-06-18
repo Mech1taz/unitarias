@@ -1,4 +1,4 @@
 ## Proyecto
 
-## brainrot
+### Hola Profe
 ![PingPong](./imagenes/paletas.gif)
