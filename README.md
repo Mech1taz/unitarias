@@ -2,3 +2,5 @@
 
 # Hola Profe
 ![PingPong](./imagenes/paletas.gif)
+
+aqui va el enunciado del problema
